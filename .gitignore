@@ -1,0 +1,24 @@
+# バイナリファイル
+/bin/
+/pkg/
+
+# OS固有のファイル
+.DS_Store
+Thumbs.db
+
+# IDE固有のファイル
+.vscode/
+.idea/
+
+# ログファイル
+*.log
+
+# 一時ファイル
+*.tmp
+*.temp
+
+# Go Modulesキャッシュ
+/go.sum
+
+# ローカル履歴ディレクトリ
+.lh/
